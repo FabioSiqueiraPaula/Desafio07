@@ -1,0 +1,57 @@
+.container{
+    display: inline-flex;
+    align-items: center;
+    
+    }
+
+.container > div{
+    width: 150px;
+    height: 100px;    
+    padding: 2px;
+}
+
+.container footer{
+    display: flex;
+    align-items: center;
+    
+    }
+
+.img {
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;   
+}
+
+.cicle {
+    height: 100px;
+    width: 100px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+
+}
+
+html, body { 
+    height: 100%; 
+
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 43px;
+
+}
+
+
+p{
+
+display: flex;
+align-items: center;
+}
+
+
+
+
+
+
+
